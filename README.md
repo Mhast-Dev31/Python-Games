@@ -32,6 +32,6 @@ This project is perfect for:
 
 ---
 
-##More Games are soon to be added
+## More Games are soon to be added
 
 ---
