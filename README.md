@@ -30,7 +30,8 @@ This project is perfect for:
 - 🕹️ **Racing Game** – Dodge traffic, collect points, and test your reflexes!
 - 🕹️ **Shooting Game** – Aim, shoot, and score points!
 
+---
+
 ##More Games are soon to be added
 
 ---
-
