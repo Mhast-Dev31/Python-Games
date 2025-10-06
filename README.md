@@ -29,12 +29,9 @@ This project is perfect for:
 ## 🧩 Included Games
 - 🕹️ **Racing Game** – Dodge traffic, collect points, and test your reflexes!
 - 🕹️ **Shooting Game** – Aim, shoot, and score points!
+- **More Games are soon to be added**
 
 ---
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/yourusername/Python-Games.git
-cd Python-Games
