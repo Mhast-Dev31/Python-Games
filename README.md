@@ -9,7 +9,7 @@
 
 ## 🕹️ About the Project
 **Python-Games** is a small collection of beginner-friendly games created using **Python** and the **Pygame** library.  
-Each game showcases simple game logic, fun visuals, and classic gameplay — all while demonstrating key programming concepts such as event handling, collisions, and object-oriented design.
+Each game showcases simple game logic, fun visuals, and classic gameplay all while demonstrating key programming concepts such as event handling, collisions, and object-oriented design.
 
 This project is perfect for:
 - 🧠 Beginners learning Python through games  
